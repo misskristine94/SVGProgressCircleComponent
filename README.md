@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/86930618/159821506-3d7930ed-cbed-4563-bd15-cdc1ae4d6c84.PNG)
 # SVGProgressCircleComponent
 Progress circle component for your canvas app!
 
